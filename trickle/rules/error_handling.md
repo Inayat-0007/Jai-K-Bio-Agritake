@@ -1,0 +1,15 @@
+When handling errors in the Jai K Bio Agritake website
+- Always use try-catch blocks for API calls and data loading operations
+- Provide meaningful error messages to users instead of technical error details
+- Log detailed error information to console for debugging purposes
+- Implement proper loading states with descriptive messages
+- Ensure graceful fallbacks when product data is not found
+- Use proper HTTP status codes and error responses
+- Validate user inputs before processing
+- Handle network timeouts and connection issues appropriately
+- Provide clear user feedback for all error scenarios
+- Test error scenarios thoroughly before deployment
+- Never expose sensitive technical details to end users
+- Always provide a way for users to recover from error states
+- Implement proper accessibility attributes for error messages
+- Use consistent error handling patterns across all components

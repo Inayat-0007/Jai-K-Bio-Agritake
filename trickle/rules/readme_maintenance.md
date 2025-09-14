@@ -1,0 +1,11 @@
+When updating or modifying the Jai K Bio Agritake website project
+- Always check if the README.md in trickle/notes needs updating
+- Update project overview, features, or structure changes
+- Keep contact information and development notes current
+- Document any new pages, components, or major functionality changes
+- Maintain the "Last Updated" section with relevant changes
+- Each product must have unique YouTube channel links, not generic company channel
+- Product detail pages must show unique content based on product ID parameter
+- Document language and theme features when adding translation or UI mode capabilities
+- When adding new translations, ensure all UI text is properly translated across all components
+- Test language switching functionality to ensure complete coverage of all website sections
